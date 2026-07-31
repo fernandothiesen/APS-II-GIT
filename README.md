@@ -2,4 +2,6 @@
 
 ### ALUNO: FERNANDO THIESEN DALLA VALLE
 
-<sup> README PARA REPOSITORIO DA AULA<sup>
+<sup> README PARA REPOSITORIO DA AULA
+    primeira alteracao no readme.md
+<sup>
