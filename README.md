@@ -3,5 +3,5 @@
 ### ALUNO: FERNANDO THIESEN DALLA VALLE
 
 <sup> README PARA REPOSITORIO DA AULA
-    primeira alteracao no readme.md
+    Sistema para Biblioteca Municipal.
 <sup>
